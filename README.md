@@ -1,5 +1,4 @@
 # AWS--LAMBDA-GLUE-REDSHIFT-BASICS
-# AWS Basics: Lambda, Glue & Redshift
 
 ## AWS Lambda
 AWS Lambda is a serverless computing service that allows you to run code without managing servers. It executes your code automatically when an event occurs.
